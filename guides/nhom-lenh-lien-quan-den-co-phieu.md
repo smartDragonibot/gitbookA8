@@ -32,5 +32,5 @@ _**Đối với các lệnh bắt đầu bằng /macp người dùng nên hiểu
 12. <mark style="color:blue;">**/macp\_smartscore**</mark> : Chấm điểm cổ phiếu theo phương pháp SmartScore của Rồng Việt
 13. <mark style="color:blue;">**/macp\_vithe**</mark> : Xác định vị thế của doanh nghiệp dựa trên Lợi nhuận, ROE và quy mô vốn hóa
 14. <mark style="color:blue;">**/macp\_diemnhan**</mark> : Xem thông tin điểm nhấn gần nhất của cổ phiếu
-15. kkk
+15. <mark style="color:blue;">**/macp\_ndt:**</mark> Xem thông tin phân loại nhà đầu tư cá nhân, tổ chức trong nước và nước ngoài
 
