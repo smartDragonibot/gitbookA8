@@ -34,3 +34,4 @@ _**Đối với các lệnh bắt đầu bằng /macp người dùng nên hiểu
 14. <mark style="color:blue;">**/macp\_diemnhan**</mark> : Xem thông tin điểm nhấn gần nhất của cổ phiếu
 15. <mark style="color:blue;">**/macp\_ndt:**</mark> Xem thông tin phân loại nhà đầu tư cá nhân, tổ chức trong nước và nước ngoài
 16. <mark style="color:blue;">**/macp\_phanloai**</mark>: Xem thông tin phân loại cổ phiếu theo cừu non, sói già, cá mập
+17. <mark style="color:blue;">**/macp\_nn\_month**</mark>: Xem thông kê giao dịch khối ngoại trong vòng 12 tháng
