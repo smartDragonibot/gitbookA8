@@ -53,3 +53,7 @@ Có thể dùng lệnh <mark style="color:blue;">**/manganh**</mark> để tra c
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/photo_2022-08-23_16-39-22.jpg" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;">**/nn 5d**</mark>: Thống kê top 10 ngành được khối ngoại mua bán trong 5 phiên (Lưu ý: d là day, khi thay đổi chỉ số, số phiên thống kê sẽ thay đổi tương ứng, người dùng có thể nhập nn 1d, nn 5d, nn 7d,...tùy ý)
+
+<mark style="color:blue;">**/nn 1m**</mark>: Thống kê top 10 ngành được khối ngoại mua bán trong 1 tháng (Lưu ý: m là month, khi thay đổi chỉ số, số tháng thống kê sẽ thay đổi tương ứng, người dùng có thể nhập nn 1m, nn 3m, nn 7m,...tùy ý)
