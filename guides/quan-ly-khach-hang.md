@@ -5,3 +5,5 @@
 ![](<../.gitbook/assets/image (1).png>)
 
 Lưu ý: Chuyên viên cần tạo username cho tài khoản telegram cá nhân, để khách hàng có thể dễ dàng liên hệ bằng cách click vào mục liên hệ với chuyên viên tư vấn.
+
+<mark style="color:blue;">**/remove\_user (sdt) :**</mark> Broker sử dụng để xóa user của mình quản lý ra khỏi hệ thống
