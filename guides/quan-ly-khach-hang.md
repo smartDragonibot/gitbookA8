@@ -1,9 +1,11 @@
 # ✍ Quản lý khách hàng
 
-<mark style="color:blue;">**/**</mark><mark style="color:blue;">**chat (nội dung phân tích)**</mark><mark style="color:blue;">**:**</mark> Chuyên viên tư vấn nhập nội muốn gửi trên iBot và gửi đến các khách hàng của mình quản lý
+<mark style="color:blue;">**/reg\_sign**</mark>: Tạo chữ kí chân chuyên nghiệp để gửi khách hàng
 
-![](<../.gitbook/assets/image (1).png>)
+/chat:&#x20;
 
-Lưu ý: Chuyên viên cần tạo username cho tài khoản telegram cá nhân, để khách hàng có thể dễ dàng liên hệ bằng cách click vào mục liên hệ với chuyên viên tư vấn.
+![](../.gitbook/assets/photo\_2023-03-14\_17-44-19.jpg)
+
+
 
 <mark style="color:blue;">**/remove\_user (sdt) :**</mark> Broker sử dụng để xóa user của mình quản lý ra khỏi hệ thống
