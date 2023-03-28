@@ -2,7 +2,7 @@
 
 <mark style="color:blue;">**/reg\_sign**</mark>: Tạo chữ kí chân chuyên nghiệp để gửi khách hàng
 
-<mark style="color:blue;">**/chat**</mark> (Chọn khách hàng => nhập nội dung): Chuyên viên tư vấn, chọn khách hàng,  nhập nội muốn gửi trên iBot và gửi đến các khách hàng của mình quản lý
+<mark style="color:blue;">**/chat**</mark> (Chọn khách hàng => nhập nội dung): Chuyên viên tư vấn, chọn khách hàng,  nhập nội dung muốn gửi trên iBot và gửi đến các khách hàng của mình quản lý
 
 ![](../.gitbook/assets/photo\_2023-03-14\_17-44-19.jpg)
 
